@@ -28,7 +28,7 @@ Tu pourras t'en servir pour écrire les requêtes au fur et à mesure de l'ateli
 mysql -u <your_name> -p <db_name> -t < workshop.sql
 ```
 
-Pense à remplacer `<your_name>` et `<your_pass>` par tes identifiants de connexion à Mysql.  
+Pense à remplacer `<your_name>` et `<db_name>` par tes identifiants de connexion à Mysql.  
 L'option `-t` permet quant à elle d'avoir une jolie présentation.
 {: .alert-info }
 
