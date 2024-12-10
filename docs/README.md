@@ -25,7 +25,7 @@ En racine du dossier que tu viens de cloner se trouve également le fichier `wor
 Tu pourras t'en servir pour écrire les requêtes au fur et à mesure de l'atelier. Pour les exécuter facilement dans ton terminal, utilise la commande suivante :
 
 ```bash
-mysql -u <your_name> -p<your_pass> -t < workshop.sql
+mysql -u <your_name> -p <db_name> -t < workshop.sql
 ```
 
 Pense à remplacer `<your_name>` et `<your_pass>` par tes identifiants de connexion à Mysql.  
